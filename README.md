@@ -11,5 +11,5 @@ A simple ETL pipeline package for data extraction, transformation, and loading i
 ## Installation
 
 ```bash
-pip install -e .
+pip install -swiftetl .
 
